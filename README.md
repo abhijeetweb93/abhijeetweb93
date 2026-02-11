@@ -1,89 +1,51 @@
-🚀 Abhijeet Sharma
-👨‍💻 Lead Mobile Engineer | Android & Flutter Specialist
+# Abhijeet Sharma
 
-📍 India
-📧 abhijeetweb93@gmail.com
+Lead Mobile Engineer | Android & Flutter Specialist  
+9+ Years Experience | Enterprise & High-Scale Apps  
 
-🔗 LinkedIn
+Email: abhijeetweb93@gmail.com  
+LinkedIn: https://www.linkedin.com/in/abhijeet-sharma-37856b54  
 
-👋 About Me
+---
 
-Lead Mobile Engineer with 9+ years of experience building scalable Android and Flutter applications across e-commerce, healthcare, fintech, and government sectors.
+## About Me
 
-Currently leading development for Samsung Shop (Samsung India) — driving architecture decisions, end-to-end delivery, CI/CD pipelines, and mentoring cross-functional teams.
+Lead Mobile Engineer with 9+ years of experience delivering scalable Android and Flutter applications across e-commerce, healthcare, fintech, and government sectors.
 
-Strong focus on:
+Currently leading development for **Samsung Shop (Samsung India)** — driving architecture, SDLC execution, CI/CD, performance optimization, and team mentoring.
 
-Clean Architecture
+Focused on building high-performance, clean, and maintainable mobile systems used by millions of users.
 
-Performance Optimization
+---
 
-Scalable app design
+## Core Expertise
 
-High-traffic production systems
+- Flutter & Dart
+- Kotlin / Java (Android)
+- Jetpack Compose
+- MVVM | Clean Architecture | BLoC
+- REST APIs | Firebase | Analytics
+- CI/CD | Fastlane | Jenkins
+- Performance Optimization & Crash Reduction
 
-🏆 Best Employee – Photon (2023)
-🏆 Best Team Player – Avalon (2017)
+---
 
-🛠 Tech Stack
-📱 Mobile
+## Impact Highlights
 
-Flutter (Dart)
+- Led 10+ enterprise mobile projects end-to-end
+- Managed Agile teams of 5–10 engineers
+- Reduced crashes & ANRs by 30%+
+- Improved development efficiency by 30% via dynamic rendering
+- Delivered high-scale government and healthcare applications
 
-Android (Kotlin / Java)
 
-Jetpack Compose
+---
 
-XML UI
+## Focus Areas
 
-🏗 Architecture
+Scalable Architecture | Enterprise Flutter | Performance Engineering | Production-Grade Mobile Systems
 
-MVVM
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijeetweb93&show_icons=true)
 
-Clean Architecture
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetweb93&layout=compact)
 
-MVP
-
-BLoC
-
-🔥 Backend & APIs
-
-REST APIs
-
-JSON / SOAP
-
-Firebase (Crashlytics, Analytics, FCM)
-
-SQLCipher
-
-Room / Floor
-
-🧰 Tools
-
-Android Studio
-
-VS Code
-
-Git (GitHub, GitLab, Bitbucket)
-
-Jenkins
-
-Fastlane
-
-Jira
-
-Postman
-
-📦 Libraries
-
-Retrofit
-
-OkHttp
-
-Dio
-
-RxJava
-
-Coroutines
-
-flutter_bloc

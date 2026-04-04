@@ -2,7 +2,7 @@
 
 ## 🚀 Lead Mobile Engineer | Flutter & Android Specialist
 
-Lead Mobile Engineer with 9+ years of experience building scalable Android and Flutter applications across e-commerce, healthcare, fintech, and government domains.
+Lead Mobile Engineer with 9+ years of experience building scalable Android and Flutter applications across **e-commerce, healthcare, fintech, and government domains.**
 
 Currently leading development for **Samsung Shop (Samsung India)** — driving architecture, SDLC execution, CI/CD, performance optimization, and team mentoring.
 
